@@ -1,6 +1,6 @@
 Hi, I’m @Lindisfritjof
 I’m learning to program, mainly HTML/CSS and Pyhton. And to use Git.
-My other interests are creative writing, -audio and Free/Libre/Open Source software.
+My other interests are creative writing (I use emacs btw ;), -audio and Free/Libre/Open Source software.
 If you want to get in touch, throw me an email at fritjof@riversouldiers.dk
 
 <!---
