@@ -1,4 +1,4 @@
-Hi, I’m @Lindisfritjof 👋:
+👋 Hi, I’m @Lindisfritjof 
 I’m learning to program, mainly HTML/CSS and Python. And to use Git.
 I enjoy creative writing ✍️, sailig ⛵, audio dramas 📻 and Free/Libre/Open Source software 💻.
 If you want to get in touch, throw me an email at fritjof@riversouldiers.dk
