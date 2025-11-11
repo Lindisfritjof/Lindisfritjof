@@ -1,4 +1,4 @@
-👋 Hi, I’m @Lindisfritjof!
+👋 Hi, I’m @Lindisfritjof aka Fritjof!
 
 I’m learning to program, mainly HTML/CSS and Python. And to use Git.
 
