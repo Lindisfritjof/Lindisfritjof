@@ -1,6 +1,7 @@
 👋 Hi, I’m @Lindisfritjof aka Fritjof!
 
 I’m learning to program, mainly HTML/CSS and Python. And to use Git.
+My other car is a horse :horse: and it's parked over @ codeberg under the same name.
 
 I enjoy creative writing ✍️, sailig ⛵, audio dramas 📻 and Free/Libre/Open Source software 💻.
 
